@@ -23,5 +23,3 @@ Welcome to my presentation page for this term. My presentation focuses on integr
 3. **Technical Guide:** MAVLink Protocol Manual — *"Autonomous Vehicle Communication and Computer Vision Targeting."*
 
 ---
-
-*(Note: Presentation slides in PDF format will be uploaded to this page one day before the presentation).*
